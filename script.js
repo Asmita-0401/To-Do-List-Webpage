@@ -1,7 +1,7 @@
 let categories = [
   {
     title: "Personal",
-    img: "boy1.png",
+    img: "boy.png",
   },
   {
     title: "Work",
